@@ -1,0 +1,6 @@
+pwd
+ls
+mkdir "nachogit"(crear directorio)
+touch (nombre de la carpeta)
+cd
+
